@@ -23,7 +23,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 ### *Para desactivar el entorno virtual* `deactivate`
 
-## (SENIOR DEVELOPER) POR FAVOR CORREGIR LOS SIGUIENTES ERRORES: 
+## (SENIOR DEVELOPER) POR FAVOR MEJORAR: 
 
-1. Revisar el Codigo é generar al menos una mejora al Código. 
+1. Revisar el código y generar al menos una mejora al projecto. 
 
