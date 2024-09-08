@@ -1,4 +1,4 @@
-# cap-3-tarea-3-api-sql
+# cap-3-tarea-3-api-mongo
 
 ## Configuración del Entorno y Ejecución del Proyecto Flask
 
