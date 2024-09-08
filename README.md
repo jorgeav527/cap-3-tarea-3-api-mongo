@@ -1,8 +1,8 @@
 # cap-3-tarea-3-api-mongo
 
-## Configuración del Entorno y Ejecución del Proyecto Flask
+## Configuración del Entorno y Ejecución del Proyecto FastAPI
 
-Este documento describe los pasos necesarios para configurar un entorno de desarrollo virtual, instalar las dependencias del proyecto, y ejecutar la aplicación Flask.
+Este documento describe los pasos necesarios para configurar un entorno de desarrollo virtual, instalar las dependencias del proyecto, y ejecutar la API en FastAPI.
 
 ### Prerrequisitos
 
@@ -12,7 +12,7 @@ Asegúrate de tener instalados los siguientes requisitos en tu máquina:
 - `pip` (la herramienta de instalación de paquetes de Python)
 - `virtualenv` (para crear entornos virtuales)
 
-### 1. Crear un Entorno Virtual, activar el Entorno Virtual com git-bash, instalar las dependencias del requirements.txt y por último ejecutar el aplicativo Flask
+### 1. Crear un Entorno Virtual, activar el Entorno Virtual com git-bash, instalar las dependencias del requirements.txt y por último ejecutar la API FastAPI
 
 ```bash
 virtualenv .venv
